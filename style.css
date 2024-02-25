@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(lightgoldenrodyellow,lightsalmon);
+}
+#score{
+    float: left;
+    margin-left: 5px;
+}
+#time{
+    float: right;
+    margin-left: 5px;
+}
